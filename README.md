@@ -5,7 +5,7 @@
 
 #### Create your class
 
-class Yourclass
+```class Yourclass
 {
   use \Boone\Outshine\Support\Traits\Singleton;
 
@@ -20,3 +20,4 @@ class Yourclass
 }
 
 Yourclass::getInstance()->demo();
+```

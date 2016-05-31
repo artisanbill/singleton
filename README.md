@@ -5,7 +5,8 @@
 
 #### Create your class
 
-```class Yourclass
+```php
+class Yourclass
 {
   use \Boone\Outshine\Support\Traits\Singleton;
 
